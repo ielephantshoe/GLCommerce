@@ -3,11 +3,11 @@
   "titleTemplate": "%s - Vitae",
   "description": "Vitae | Quit Smoking",
   "openGraph": {
-    "title": "ACME Storefront | Powered by Next.js Commerce",
+    "title": "Vitae | Quit Smoking",
     "description": "Vitae | Quit Smoking",
     "type": "website",
     "locale": "en_IE",
-    "url": "https://glc-ommerce.vercel.app/",
+    "url": "https://glc-ommerce.vercel.app",
     "site_name": "Vitae | Quit Smoking",
     "images": [
       {
@@ -19,8 +19,8 @@
     ]
   },
   "twitter": {
-    "handle": "@",
-    "site": "@",
+    "handle": "/",
+    "site": "/",
     "cardType": "summary_large_image"
   }
 }
